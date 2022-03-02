@@ -4,6 +4,9 @@
   "package": "adleymd.exploreandcollect.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
+    "PaintingEntityMixin",
+    "PaintingManagerMixin",
+    "PaintingSpawnS2CPacketMixin"
   ],
   "client": [
   ],
